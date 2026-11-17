@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+# Keys and reports live in ~/.google-ads-profit, never here. Just in case:
+config.json
+google-token.json
+google-oauth-client.json
+client_secret_*.json
+costs.csv
+journal.json
